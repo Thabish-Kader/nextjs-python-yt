@@ -1,3 +1,4 @@
+import { UserInputs } from "@/components/UserInputs";
 import { exec, spawn, fork } from "child_process";
 
 //exec example
@@ -38,7 +39,7 @@ import { exec, spawn, fork } from "child_process";
 export default function Home() {
 	return (
 		<main className="bg-zinc-900 h-screen">
-			<h1>Hello world</h1>
+			<UserInputs />
 		</main>
 	);
 }
