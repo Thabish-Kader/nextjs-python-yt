@@ -1,4 +1,4 @@
-# Next Js + Python Automation
+# Next Js 13.4 + Python Automation
 
 ## Child processes spawn(), fork() and exec()
 
