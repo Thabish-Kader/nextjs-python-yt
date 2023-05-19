@@ -8,6 +8,11 @@
 <br/>
 <br/>
 <br/>
+
+## YT
+
+[![Build Killer Web Apps with Python Scripting in Next.js](https://ytcards.demolab.com/?id=snqgWx5tOzY&title=Build+Killer+Web+Apps+with+Python+Scripting+in+Next.js&lang=en&timestamp=1684440025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Build Killer Web Apps with Python Scripting in Next.js")](https://www.youtube.com/watch?v=snqgWx5tOzY)
+
 A very small project to learn how to execute python script in Next js.
 
 ## Learning outcomes
